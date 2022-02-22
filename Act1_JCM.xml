@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <rss version="2.0">
+    <channel>
+    <title>Bienvenidos a mi pagina</title>
+    <link>http://www.lenguajemarcas.es</link>
+    <description>Ayuda al estudiante de LM</description>
+    <item>
+        <title>ASIR</title>
+        <link>http://www.asir.es/rss/asir.rss</link>
+        <description>CFGS ASIR</description>
+    </item>
+
+    <item>
+        <title>DAW</title>
+        <link>http://www.daw.es/rss/daw.rss</link>
+        <description>CFGS DAW</description>
+    </item>
+
+    <item>
+    </item>
+    
+    </channel>
+</rss>
+
+<category>Noticias/programacion/Python</category>
+<copyright>Juan Gómez – Todos los derechos reservados</copyright>
+<language>es-es</language>
+<lastBuildDate>22/02/2022</lastBuildDate>
+<webMaster>mordis0812@gmail.com</webMaster>
+<skipDays></skipDays>
+<skipHours></skipHours>
+<image>
+    <url>http://www.asir.es/imagenes/logo.jpg</url>
+    <title>ASIR</title>
+    <link>http://www.asir.es</link>
+</image>
