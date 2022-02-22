@@ -2,35 +2,68 @@
     <rss version="2.0">
     <channel>
     <title>Bienvenidos a mi pagina</title>
-    <link>http://www.lenguajemarcas.es</link>
+    <link>https://github.com/JaimeCM08/Prueba/blob/4e7b41dbe7617636b0577d6593f22f471f72b225/Act1_JCM.xml</link>
     <description>Ayuda al estudiante de LM</description>
-    <item>
-        <title>ASIR</title>
-        <link>http://www.asir.es/rss/asir.rss</link>
-        <description>CFGS ASIR</description>
-    </item>
-
-    <item>
-        <title>DAW</title>
-        <link>http://www.daw.es/rss/daw.rss</link>
-        <description>CFGS DAW</description>
-    </item>
-
-    <item>
-    </item>
     
+    <item>
+        <guid>https://www.global-esports.news/es/general/ark-survival-evolved-el-mapa-dlc-gratuito-lost-island-te-lleva-a-nuevos-lugares/</guid>
+        <title>Nuevo DLC gratuito de ARK</title>
+        <link>https://www.global-esports.news/es/general/ark-survival-evolved-el-mapa-dlc-gratuito-lost-island-te-lleva-a-nuevos-lugares/</link>
+        <description>Ya está disponible el nuevo DLC gratuitode ARK: Survival Evolved y aqui te dejamos la información</description>
+        <category>Noticias/ARK:Survival Evolved/Videojuegos</category>
+        <author>mordis0812@gmail.com (Jaime Castanedo Mateos)</author>
+        <image>
+            <copyright> Copyright, 2022, Pramith</copyright>
+            <url>https://www.global-esports.news/wp-content/uploads/2022/01/Ark-Survival-Evolved-Free-DLC-map-Lost-Island.jpg</url>
+            <title>ARK Lost Island</title>
+            <link>https://www.global-esports.news/wp-content/uploads/2022/01/Ark-Survival-Evolved-Free-DLC-map-Lost-Island.jpg</link>
+        </image>
+    </item>
+
+    <item>
+        <guid></guid>
+        <title></title>
+        <link></link>
+        <description></description>
+        <category></category>
+        <author>mordis0812@gmail.com (Jaime Castanedo Mateos)</author>
+        <image>
+            <copyright> Copyright, 2022,</copyright>
+            <url></url>
+            <title></title>
+            <link></link>
+        </image>
+    </item>
+
+    <item>
+        <guid></guid>
+        <title></title>
+        <link></link>
+        <description></description>
+        <category></category>
+        <author>mordis0812@gmail.com (Jaime Castanedo Mateos)</author>
+        <image>
+            <copyright> Copyright, 2022,</copyright>
+            <url></url>
+            <title></title>
+            <link></link>
+        </image>
+    </item>
+
+    <item>
+        <guid></guid>
+        <title></title>
+        <link></link>
+        <description></description>
+        <category></category>
+        <author>mordis0812@gmail.com (Jaime Castanedo Mateos)</author>
+        <image>
+            <copyright> Copyright, 2022,</copyright>
+            <url></url>
+            <title></title>
+            <link></link>
+        </image>
+    </item>
+
     </channel>
 </rss>
-
-<category>Noticias/programacion/Python</category>
-<copyright>Juan Gómez – Todos los derechos reservados</copyright>
-<language>es-es</language>
-<lastBuildDate>22/02/2022</lastBuildDate>
-<webMaster>mordis0812@gmail.com</webMaster>
-<skipDays></skipDays>
-<skipHours></skipHours>
-<image>
-    <url>http://www.asir.es/imagenes/logo.jpg</url>
-    <title>ASIR</title>
-    <link>http://www.asir.es</link>
-</image>
