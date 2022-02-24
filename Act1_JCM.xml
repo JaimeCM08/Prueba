@@ -5,7 +5,7 @@
     <link>https://github.com/JaimeCM08/Prueba/blob/e902d32faacc252c36d1437d4f7d619ad6fe4f73/Act1_JCM.xml</link>
     <description>Ayuda al estudiante de LM</description>
     <image>
-        <copyright></copyright>
+        <copyright>Copyright, EKKAPHAN CHIMPALEE</copyright>
         <url>https://www.istockphoto.com/es/foto/concepto-de-espacio-de-trabajo-del-jugador-vista-superior-de-un-equipo-de-juego-rat%C3%B3n-gm1170073824-323659137</url>
         <title>Videojuegos</title>
         <link>https://www.istockphoto.com/es/foto/concepto-de-espacio-de-trabajo-del-jugador-vista-superior-de-un-equipo-de-juego-rat%C3%B3n-gm1170073824-323659137</link>
@@ -18,7 +18,7 @@
         <description>Ya está disponible el nuevo DLC gratuitode ARK: Survival Evolved y aqui te dejamos la información</description>
         <category>Noticias/ARK:Survival Evolved/Videojuegos</category>
         <author>mordis0812@gmail.com (Jaime Castanedo Mateos)</author>
-        <enclosure url="https://www.global-esports.news/wp-content/uploads/2022/01/Ark-Survival-Evolved-Free-DLC-map-Lost-Island.jpg" type="imagen/jpg"/>
+        <enclosure url="https://www.global-esports.news/wp-content/uploads/2022/01/Ark-Survival-Evolved-Free-DLC-map-Lost-Island.jpg" length="12345" type="imagen/jpg"/>
     </item>
 
     <item>
@@ -28,7 +28,7 @@
         <description>Riot Games nos enseña la nueva campeona para del League Of Legends</description>
         <category>Noticias/League Of Legends/Videojuegos</category>
         <author>mordis0812@gmail.com (Jaime Castanedo Mateos)</author>
-        <enclosure url="https://www.vidaextra.com/juegos-online/zeri-chispa-zaun-pistolera-poderes-electricos-sera-primera-campeona-que-se-unira-a-league-of-legends-2022" type="imagen/jpg"/>
+        <enclosure url="https://www.vidaextra.com/juegos-online/zeri-chispa-zaun-pistolera-poderes-electricos-sera-primera-campeona-que-se-unira-a-league-of-legends-2022" length="12345" type="imagen/jpg"/>
     </item>
 
     <item>
@@ -38,7 +38,7 @@
         <description>Actualización de Hearthstone añadiendo nuevas cartas en todos sus modos gracias al miniset de la guarida de Onyxia</description>
         <category>Noticias/Videojuegos/Hearthstone</category>
         <author>mordis0812@gmail.com (Jaime Castanedo Mateos)</author>
-        <enclosure url="https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/06/06DSRRMG84GD1644356453371.jpg" type="imagen/jpg"/>
+        <enclosure url="https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/06/06DSRRMG84GD1644356453371.jpg" length="12345" type="imagen/jpg"/>
     </item>
 
     <item>
@@ -48,7 +48,7 @@
         <description>Pokémon TCG live retrasa su estreno en Canadá y por lo tanto en el resto del mundo debido a unas pruebas fallidas</description>
         <category>Noticias/Videojuegos/Pokémon-TCG-live</category>
         <author>mordis0812@gmail.com (Jaime Castanedo Mateos)</author>
-        <enclosure url="https://as.com/meristation/2021/11/08/noticias/1636356036_613380.html" type="imagen/jpg"/>
+        <enclosure url="https://as.com/meristation/2021/11/08/noticias/1636356036_613380.html" length="12345" type="imagen/jpg"/>
     </item>
 
     </channel>
